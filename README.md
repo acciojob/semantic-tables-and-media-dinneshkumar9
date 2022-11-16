@@ -13,7 +13,7 @@ Below the table create a numbered list, with 3 items
 
 - The second item will be a video with source (also use source element inside video) "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
 
-- The third and last item will be an audio with source "http://commondatastorage.googleapis. com/codeskulptor-assets/Epoq-Lepidoptera.ogg".
+- The third and last item will be an audio with source "http://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg".
 
 Between the table and lists there should be an heading `List of medias`
 **Note:- Do not change the order of the items in the list**
